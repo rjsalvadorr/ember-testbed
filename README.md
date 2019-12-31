@@ -1,9 +1,10 @@
-# Super Rentals
+# Super Rentals (testbed)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+This is a copy of the [Super Rentals tutorial](https://guides.emberjs.com/current/tutorial/ember-cli/). I've cloned it to test some ideas out on a model Ember codebase.
 
-This is a working repository for the Super Rentals tutorial,
-which you can check out at https://guides.emberjs.com/current/tutorial/ember-cli/.
+## Customizations
+
+...nothing yet.
 
 ## Prerequisites
 
